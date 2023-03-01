@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HorseTrackApp", "HorseTrackApp.csproj", "{488DA6D5-AF88-4F2D-A0EF-3A2195382501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseTrackUnitTest", "..\HorseTrackUnitTest\HorseTrackUnitTest.csproj", "{3B433A49-BB6C-45F1-BB93-C07A2BB4C541}"
+	ProjectSection(ProjectDependencies) = postProject
+		{488DA6D5-AF88-4F2D-A0EF-3A2195382501} = {488DA6D5-AF88-4F2D-A0EF-3A2195382501}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488DA6D5-AF88-4F2D-A0EF-3A2195382501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488DA6D5-AF88-4F2D-A0EF-3A2195382501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488DA6D5-AF88-4F2D-A0EF-3A2195382501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488DA6D5-AF88-4F2D-A0EF-3A2195382501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B433A49-BB6C-45F1-BB93-C07A2BB4C541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B433A49-BB6C-45F1-BB93-C07A2BB4C541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B433A49-BB6C-45F1-BB93-C07A2BB4C541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B433A49-BB6C-45F1-BB93-C07A2BB4C541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {640CBD5E-4ED5-481B-8BB6-6D51F31EE6DE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+E:\TrustWave\HorseTrackApp\HorseTrackApp\bin\Debug\net6.0\HorseTrackApp.exe
+E:\TrustWave\HorseTrackApp\HorseTrackApp\bin\Debug\net6.0\HorseTrackApp.deps.json
+E:\TrustWave\HorseTrackApp\HorseTrackApp\bin\Debug\net6.0\HorseTrackApp.runtimeconfig.json
+E:\TrustWave\HorseTrackApp\HorseTrackApp\bin\Debug\net6.0\HorseTrackApp.dll
+E:\TrustWave\HorseTrackApp\HorseTrackApp\bin\Debug\net6.0\HorseTrackApp.pdb
+E:\TrustWave\HorseTrackApp\HorseTrackApp\obj\Debug\net6.0\HorseTrackApp.csproj.AssemblyReference.cache
+E:\TrustWave\HorseTrackApp\HorseTrackApp\obj\Debug\net6.0\HorseTrackApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\TrustWave\HorseTrackApp\HorseTrackApp\obj\Debug\net6.0\HorseTrackApp.AssemblyInfoInputs.cache
+E:\TrustWave\HorseTrackApp\HorseTrackApp\obj\Debug\net6.0\HorseTrackApp.AssemblyInfo.cs
+E:\TrustWave\HorseTrackApp\HorseTrackApp\obj\Debug\net6.0\HorseTrackApp.csproj.CoreCompileInputs.cache
+E:\TrustWave\HorseTrackApp\HorseTrackApp\obj\Debug\net6.0\HorseTrackApp.dll
+E:\TrustWave\HorseTrackApp\HorseTrackApp\obj\Debug\net6.0\refint\HorseTrackApp.dll
+E:\TrustWave\HorseTrackApp\HorseTrackApp\obj\Debug\net6.0\HorseTrackApp.pdb
+E:\TrustWave\HorseTrackApp\HorseTrackApp\obj\Debug\net6.0\HorseTrackApp.genruntimeconfig.cache
+E:\TrustWave\HorseTrackApp\HorseTrackApp\obj\Debug\net6.0\ref\HorseTrackApp.dll
